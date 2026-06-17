@@ -1,4 +1,4 @@
-# Jiggman Super Wait Extension
+# Jiggmin Super Wait Extension
 A small chrome extension that detects post delay notifications and softly informs you once it is ready.
 
 # Activate
@@ -10,4 +10,4 @@ To add the extension to your browser, simply:
 4. Toggle "Developer mode" On
 5. Click "Load Unpacked"
 6. Select the "WebExtention" folder within the downloaded folder.
-7. Refresh Jiggman Village and enjoy ^^
+7. Refresh Jiggmin Village and enjoy ^^
