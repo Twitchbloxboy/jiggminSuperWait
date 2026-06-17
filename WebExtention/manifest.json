@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Super Jigg Wait",
+  "version": "1.0",
+  "description": "Waits for you then notifies you once the wait is up.",
+  "content_scripts": [
+    {
+      "matches": ["https://jiggmin2.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
