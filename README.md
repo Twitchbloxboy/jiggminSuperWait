@@ -1,6 +1,8 @@
 # Jiggmin Super Wait Extension
 A small chrome extension that detects post delay notifications and softly informs you once it is ready.
 
+Showcase Video: https://www.youtube.com/watch?v=6LAilKV0qqg
+
 # Activate
 To add the extension to your browser, simply:
 
